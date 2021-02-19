@@ -1,4 +1,4 @@
-# Wine_Quality_Prediction
+# Wine Quality Prediction
 
 ## Objective:
 Build a regressional model that will predict the rating of wine, which are collected from wineenthusiast.com
